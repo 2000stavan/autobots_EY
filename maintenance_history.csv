@@ -1,0 +1,11 @@
+vehicle_id,date,service_type,cost,mileage,notes
+V-101,2023-01-15,Oil Change,75.50,15000,Routine maintenance
+V-101,2023-06-20,Tire Rotation,40.00,22000,Check tire pressure
+V-102,2023-03-10,Brake Pad Replacement,250.00,35000,Front brake pads worn
+V-103,2023-05-05,Battery Replacement,180.00,45000,Battery failed load test
+V-101,2023-11-12,Oil Change,80.00,30000,Synthetic oil used
+V-102,2023-09-15,Engine Tune-up,350.00,42000,Spark plugs and air filter
+V-104,2023-02-28,Transmission Fluid Flush,200.00,60000,Recommended at 60k
+V-103,2023-10-10,Wiper Blade Replacement,30.00,52000,Front and rear wipers
+V-105,2023-07-25,Wheel Alignment,95.00,28000,Car was pulling to right
+V-102,2024-01-05,Oil Change,85.00,48000,Routine maintenance
